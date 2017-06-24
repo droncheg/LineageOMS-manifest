@@ -514,5 +514,7 @@
 
   <!-- Substratum support -->
   <include name="snippets/substratum.xml" />
+  
+  <include name="snippets/sony_blobs.xml" />
 
 </manifest>
