@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <!-- <remote  name="sf"
-           fetch="https://git.code.sf.net/p"
-           revision="master" />
-  <project path="packages/apps/OpenCamera" name="opencamera/code" remote="sf" /> -->
+  <project path="packages/apps/OpenCamera" name="droncheg/opencamera-bin" remote="github" revision="master" />
   <project path="vendor/sony" name="droncheg/proprietary_vendor_sony" remote="github" />
   <project path="device/sony/nicki" name="droncheg/android_device_sony_nicki" remote="github" />
   <project path="device/sony/common" name="droncheg/android_device_sony_common" remote="github" />
