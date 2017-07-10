@@ -12,4 +12,5 @@
     <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" revision="cm-14.1" remote="github" />
     <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1" remote="github" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" remote="github" />
+    <project path="gcc-linaro_4.8.4-2014.114" name="droncheg/gcc-linaro_4.8.4-2014.11" revision="master" remote="github" />
 </manifest>
