@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/samsung/a3-common" name="droncheg/android_device_samsung_a3-common" revision="cm-14.1" remote="github" />
+    <project path="device/samsung/a3ltexx" name="droncheg/android_device_samsung_a3ltexx" revision="cm-14.1" remote="github" />
+    <project path="kernel/samsung/msm8916" name="droncheg/android_kernel_samsung_msm8916" revision="master" remote="github" />
+    <project path="vendor/samsung" name="droncheg/proprietary_vendor_samsung" revision="cm-14.1" remote="github" />
+    <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" remote="github" />
+    <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" remote="github" />
+    <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" revision="cm-14.1" remote="github" />
+    <project path="external/busybox" name="LineageOS/android_external_busybox" revision="cm-14.1" remote="github" />
+    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="cm-14.1" remote="github" />
+    <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" revision="cm-14.1" remote="github" />
+    <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1" remote="github" />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" remote="github" />
+</manifest>
