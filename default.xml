@@ -516,6 +516,4 @@
   <include name="snippets/substratum.xml" />
   
   <include name="snippets/sony.xml" />
-  <include name="snippets/samsung.xml" />
-
 </manifest>
