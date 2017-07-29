@@ -513,6 +513,5 @@
 
   <!-- Substratum support -->
   <include name="snippets/substratum.xml" />
-  
-  <include name="snippets/sony.xml" />
+
 </manifest>
